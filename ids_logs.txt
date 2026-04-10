@@ -1,0 +1,89 @@
+2024-01-15 14:32:17 [123456789] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=1' OR 1=1 --
+Payload: 1' OR 1=1 --
+
+2024-01-15 14:32:18 [123456790] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=1' OR '1'='1' --
+Payload: 1' OR '1'='1' --
+
+2024-01-15 14:32:19 [123456791] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=admin'--
+Payload: admin'--
+
+2024-01-15 14:32:20 [123456792] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=1' OR 1=1 --
+Payload: 1' OR 1=1 --
+
+2024-01-15 14:32:21 [123456793] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=1' OR '1'='1' --
+Payload: 1' OR '1'='1' --
+
+2024-01-15 14:32:22 [123456794] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=admin'--
+Payload: admin'--
+
+2024-01-15 14:32:23 [123456795] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=1' OR 1=1 --
+Payload: 1' OR 1=1 --
+
+2024-01-15 14:32:24 [123456796] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=1' OR '1'='1' --
+Payload: 1' OR '1'='1' --
+
+2024-01-15 14:32:25 [123456797] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=admin'--
+Payload: admin'--
+
+2024-01-15 14:32:26 [123456798] SQL Injection Attack Detected
+Rule: 1000001
+Category: SQL Injection
+Severity: High
+Source IP: 192.168.1.105
+Destination IP: 10.10.1.25
+URL: /login.php?user=1' OR 1=1 --
+Payload: 1' OR 1=1 --
