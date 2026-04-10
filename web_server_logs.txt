@@ -1,0 +1,10 @@
+2024-01-15 14:32:17 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:17 +0000] "GET /login.php?user=admin&pass=123456 HTTP/1.1" 200 1234
+2024-01-15 14:32:18 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:18 +0000] "GET /login.php?user=administrator&pass=pass123 HTTP/1.1" 200 1234
+2024-01-15 14:32:19 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:19 +0000] "GET /login.php?user=guest&pass=guest HTTP/1.1" 200 1234
+2024-01-15 14:32:20 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:20 +0000] "GET /login.php?user=1' OR '1'='1' -- HTTP/1.1" 200 1234
+2024-01-15 14:32:21 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:21 +0000] "GET /login.php?user=1' OR 1=1 -- HTTP/1.1" 200 1234
+2024-01-15 14:32:22 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:22 +0000] "GET /login.php?user=admin'-- HTTP/1.1" 200 1234
+2024-01-15 14:32:23 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:23 +0000] "GET /login.php?user=1' OR 1=1 -- HTTP/1.1" 200 1234
+2024-01-15 14:32:24 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:24 +0000] "GET /login.php?user=1' OR '1'='1' -- HTTP/1.1" 200 1234
+2024-01-15 14:32:25 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:25 +0000] "GET /login.php?user=admin'-- HTTP/1.1" 200 1234
+2024-01-15 14:32:26 web01.corp.company.com:80 192.168.1.105 - - [15/Jan/2024:14:32:26 +0000] "GET /login.php?user=1' OR 1=1 -- HTTP/1.1" 200 1234
